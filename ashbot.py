@@ -425,5 +425,5 @@ class MyClient(discord.Client):
             await message.channel.send(f'{message.author.name}, seu efeito de Pânico é: {android30}')
 
 client = MyClient()
-client.run('ODA3MTQwMjY4NjA3Nzk5MzI2.YBzp8w.TKHGXQGtaeoeeDeM7VVfPa36Zkg')
+client.run('YOUR BOT TOKEN')
 
