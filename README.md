@@ -16,52 +16,51 @@
 
 #### ⚠️ COMANDOS:
 
-
-**TRINKET** - Randomiza uma Bugiganga durante a criação do personagem;
+##### **TRINKET** - Randomiza uma Bugiganga durante a criação do personagem;
 ~~~
 ?t
 ~~~
-**PATCH** - Randomiza um Retalho durante a criação do personagem;
+##### **PATCH** - Randomiza um Retalho durante a criação do personagem;
 ~~~
 ?p
 ~~~
-**JOB** - Randomiza um trabalho em conceito espacial;
+##### **JOB** - Randomiza um trabalho em conceito espacial;
 ~~~
 ?j
 ~~~
-**DEATH** - Define as condições ao recuperar a consciência;
+##### **DEATH** - Define as condições ao recuperar a consciência;
 ~~~
 ?d
 ~~~
-**STRESS** - Efeito do Pânico. Onde X (entre 2 e 30) é o resultado do seu Teste de Efeito de Pânico somado ao seu Estresse atual;
+##### **STRESS** - Efeito do Pânico. Onde X (entre 2 e 30) é o resultado do seu Teste de Efeito de Pânico somado ao seu Estresse atual;
 ~~~
 ?sX
 ~~~
-**ANDROID** - Efeito do Pânico em Androides. Onde X (entre 2 e 30) é o resultado do seu Teste de Efeito de Pânico somado ao seu Estresse atual;
+##### **ANDROID** - Efeito do Pânico em Androides. Onde X (entre 2 e 30) é o resultado do seu Teste de Efeito de Pânico somado ao seu Estresse atual;
 ~~~ 
 ?aX 
 ~~~
-**MOTHERSHIP** - Gera uma tabela, de todo o grupo, com as seguintes informações: Nome, Saúde, Estresse, Força, Velocidade, Intelecto, Combate, Sanidade, Medo,  Corpo e Armadura. Fazendo referência com o nome de cada um dos personagens e também utilizando suas Classes como "index";
+##### **MOTHERSHIP** - Gera uma tabela, de todo o grupo, com as seguintes informações: Nome, Saúde, Estresse, Força, Velocidade, Intelecto, Combate, Sanidade, Medo,  Corpo e Armadura. Fazendo referência com o nome de cada um dos personagens e também utilizando suas Classes como "index";
 ~~~
 ?m
 ~~~
-**DARIUS** - Gera uma tabela apenas com as informações do personagem Darius, do jogador Italo;
+##### **DARIUS** - Gera uma tabela apenas com as informações do personagem Darius, do jogador Italo;
 ~~~
 ?darius
 ~~~
-**ELANA** - Gera uma tabela apenas com as informações do personagem Elana, da jogadora Mariana;
+##### **ELANA** - Gera uma tabela apenas com as informações do personagem Elana, da jogadora Mariana;
 ~~~
 ?elana
 ~~~
-**JO** - Gera uma tabela apenas com as informações do personagem Jo, do jogador Paulo;
+##### **JO** - Gera uma tabela apenas com as informações do personagem Jo, do jogador Paulo;
 ~~~
 ?jo
 ~~~
-**THE MEN** - Gera uma tabela apenas com as informações do personagem The Men, do jogador Matheus;
+##### **THE MEN** - Gera uma tabela apenas com as informações do personagem The Men, do jogador Matheus;
 ~~~
 ?themen
 ~~~
-**WALKER** - Gera uma tabela apenas com as informações do personagem Walker, do jogador Eduardo;
+##### **WALKER** - Gera uma tabela apenas com as informações do personagem Walker, do jogador Eduardo;
 ~~~
 ?walker
 ~~~
