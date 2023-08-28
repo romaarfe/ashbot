@@ -1,12 +1,22 @@
-# **ASH BOT**
-## ***Discord Bot for Mothership RPG***
-#
-### *A personal project for our game night at monday's where we can randomness some important stuff from this tabletop roleplaying game.*
-#
-#
+<h3 align="center"> 
+  🚧 ASH BOT 🚧
+</h3>
 
-## **COMMANDS**
-#
+---
+#### ⚙️ ETAPAS / FUNCIONALIDADES:
+
+- [x] Discord Bot for Mothership RPG
+- [x] A personal project for our game night at monday's where we can randomness some important stuff from this tabletop roleplaying game.
+
+---
+#### 🔧 FERRAMENTAS / TECNOLOGIAS:
+
+- Python
+- Markdown
+
+#### ⚠️ COMANDOS:
+
+
 **TRINKET** - Randomiza uma Bugiganga durante a criação do personagem;
 ~~~
 ?t
@@ -55,6 +65,7 @@
 ~~~
 ?walker
 ~~~
-#
 
-### Tuesday Knight Games, <a href="https://www.mothershiprpg.com/" target="_blank">Mothership RPG</a>.
+---
+##### 📖 Projeto pessoal
+##### 🛸 Tuesday Knight Games, <a href="https://www.mothershiprpg.com/" target="_blank">Mothership RPG</a>.
